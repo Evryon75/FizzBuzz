@@ -5,7 +5,7 @@ fn main() {
             (5, String::from("Buzz")),
             (7, String::from("Bazz")),
         ],
-        (0, 30),
+        (0, 100),
     );
 }
 
